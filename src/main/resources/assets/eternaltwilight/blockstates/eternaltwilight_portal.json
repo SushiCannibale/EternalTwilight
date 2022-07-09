@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "eternaltwilight:block/eternaltwilight_portal_ns"
+    },
+    "axis=z": {
+      "model": "eternaltwilight:block/eternaltwilight_portal_ew"
+    }
+  }
+}
