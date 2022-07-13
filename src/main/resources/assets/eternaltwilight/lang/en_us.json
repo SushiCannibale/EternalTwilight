@@ -1,0 +1,11 @@
+{
+  "itemGroup.eternaltwilight": "EternalTwilight Mod",
+  "item.eternaltwilight.echo_wand": "Echo Wand",
+  "item.eternaltwilight.wool_boots": "Wool Boots",
+
+  "block.eternaltwilight.vacuum_lantern": "Vacuum Lantern",
+
+  "eternaltwilight.echo_wand.vibration_amount": "%1$s / %2$s vibrations",
+
+  "sounds.eternaltwilight.portal_open": "Deep Portal Open"
+}

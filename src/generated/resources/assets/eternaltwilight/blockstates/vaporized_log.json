@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "eternaltwilight:block/vaporized_log_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "eternaltwilight:block/vaporized_log"
+    },
+    "axis=z": {
+      "model": "eternaltwilight:block/vaporized_log_horizontal",
+      "x": 90
+    }
+  }
+}

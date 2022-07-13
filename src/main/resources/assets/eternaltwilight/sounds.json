@@ -1,0 +1,8 @@
+{
+  "portal_open": {
+    "subtitle": "sounds.eternaltwilight.portal_open",
+    "sounds": [
+      "eternaltwilight:portal_open"
+    ]
+  }
+}
