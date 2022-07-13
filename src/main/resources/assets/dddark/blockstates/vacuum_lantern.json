@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "hanging=false": {
+      "model": "dddark:block/vacuum_lantern"
+    },
+    "hanging=true": {
+      "model": "dddark:block/vacuum_lantern_hanging"
+    }
+  }
+}
